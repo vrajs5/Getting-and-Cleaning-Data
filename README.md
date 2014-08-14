@@ -10,7 +10,7 @@
 
 Input to script - Folder "UCI HAR Dataset" with all files provided for assigment.  
 
-Output of script - "tidySet.txt"" file
+Output of script - "tidySet.txt file
 
 - - - 
 
