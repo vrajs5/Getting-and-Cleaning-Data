@@ -8,9 +8,9 @@
  2. Run source('run_analysis.R')
  3. Output file is 'tidySet.txt' in same folder as R script
 
-**Input to script ** - Folder "UCI HAR Dataset" with all files provided for assigment.  
+** Input to script ** - Folder "UCI HAR Dataset" with all files provided for assigment.  
 
-**Output of script ** - "tidySet.txt"" file
+** Output of script ** - "tidySet.txt"" file
 
 - - - 
 
